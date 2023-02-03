@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Rongtuli" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="../bin/rongtuli" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../bin" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-Winvalid-pch" />
+				</Compiler>
+				<Linker>
+					<Add library="gdi32" />
+					<Add library="gdiplus" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/notpixel" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../bin" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-Winvalid-pch" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../src/Edit.cpp" />
+		<Unit filename="../src/Edit.h" />
+		<Unit filename="../src/button.cpp" />
+		<Unit filename="../src/button.h" />
+		<Unit filename="../src/canvasObject.cpp" />
+		<Unit filename="../src/canvasObject.h" />
+		<Unit filename="../src/canvasWindow.cpp" />
+		<Unit filename="../src/canvasWindow.h" />
+		<Unit filename="../src/colorPanel.cpp" />
+		<Unit filename="../src/colorPanel.h" />
+		<Unit filename="../src/control.cpp" />
+		<Unit filename="../src/control.h" />
+		<Unit filename="../src/main.cpp" />
+		<Unit filename="../src/mainWindow.cpp" />
+		<Unit filename="../src/mainWindow.h" />
+		<Unit filename="../src/mathHelper.h" />
+		<Unit filename="../src/propertiesPanel.cpp" />
+		<Unit filename="../src/propertiesPanel.h" />
+		<Unit filename="../src/rongtuli.cpp" />
+		<Unit filename="../src/rongtuli.h" />
+		<Unit filename="../src/stdinclude.h">
+			<Option compile="1" />
+			<Option weight="0" />
+			<Option compiler="gcc" use="0" buildCommand="g++ -x c++ -o stdinclude.gch -c stdinclude.h" />
+		</Unit>
+		<Unit filename="../src/tool.cpp" />
+		<Unit filename="../src/tool.h" />
+		<Unit filename="../src/toolBar.cpp" />
+		<Unit filename="../src/toolBar.h" />
+		<Unit filename="../src/window.cpp" />
+		<Unit filename="../src/window.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

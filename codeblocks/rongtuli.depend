@@ -1,0 +1,330 @@
+# depslib dependency file v1.0
+1675100085 source:e:\programming-stuff\my-projects\quickphoto\src\button.cpp
+	"stdinclude.h"
+	"control.h"
+	"button.h"
+	"rongtuli.h"
+
+1675111121 e:\programming-stuff\my-projects\quickphoto\src\stdinclude.h
+	<stdio.h>
+	<assert.h>
+	<string>
+	<vector>
+	<iostream>
+	<map>
+	<memory>
+	<functional>
+	<tchar.h>
+	<windows.h>
+	<gdiplus.h>
+
+1675102965 e:\programming-stuff\my-projects\quickphoto\src\control.h
+
+1675099605 e:\programming-stuff\my-projects\quickphoto\src\button.h
+	"control.h"
+
+1675103288 e:\programming-stuff\my-projects\quickphoto\src\rongtuli.h
+	"control.h"
+	"mainWindow.h"
+
+1675107617 e:\programming-stuff\my-projects\quickphoto\src\mainwindow.h
+
+1675109256 source:e:\programming-stuff\my-projects\quickphoto\src\canvasobject.cpp
+	"stdinclude.h"
+	"canvasObject.h"
+
+1675110140 e:\programming-stuff\my-projects\quickphoto\src\canvasobject.h
+
+1675109763 source:e:\programming-stuff\my-projects\quickphoto\src\canvaswindow.cpp
+	"stdinclude.h"
+	"canvasWindow.h"
+	"mainWindow.h"
+	"rongtuli.h"
+
+1675109742 e:\programming-stuff\my-projects\quickphoto\src\canvaswindow.h
+	"canvasObject.h"
+	"tool.h"
+
+1675111702 e:\programming-stuff\my-projects\quickphoto\src\tool.h
+
+1675098934 source:e:\programming-stuff\my-projects\quickphoto\src\control.cpp
+	"stdinclude.h"
+	"rongtuli.h"
+	"control.h"
+
+1675111700 source:e:\programming-stuff\my-projects\quickphoto\src\mainwindow.cpp
+	"stdinclude.h"
+	"mainWindow.h"
+	"rongtuli.h"
+	"button.h"
+	"canvasWindow.h"
+
+1675104524 source:e:\programming-stuff\my-projects\quickphoto\src\rongtuli.cpp
+	"stdinclude.h"
+	"tool.h"
+	"mainWindow.h"
+	"rongtuli.h"
+
+1675111718 source:e:\programming-stuff\my-projects\quickphoto\src\tool.cpp
+	"stdinclude.h"
+	"canvasWindow.h"
+	"tool.h"
+
+1675368299 source:e:\programming-stuff\my-projects\notpixel\src\button.cpp
+	"stdinclude.h"
+	"control.h"
+	"button.h"
+	"rongtuli.h"
+
+1675275275 e:\programming-stuff\my-projects\notpixel\src\stdinclude.h
+	<stdio.h>
+	<assert.h>
+	<string>
+	<vector>
+	<iostream>
+	<map>
+	<memory>
+	<functional>
+	<tchar.h>
+	<windows.h>
+	<gdiplus.h>
+
+1675102965 e:\programming-stuff\my-projects\notpixel\src\control.h
+
+1675099605 e:\programming-stuff\my-projects\notpixel\src\button.h
+	"control.h"
+
+1675377363 e:\programming-stuff\my-projects\notpixel\src\rongtuli.h
+	"control.h"
+	"mainWindow.h"
+
+1675369532 e:\programming-stuff\my-projects\notpixel\src\mainwindow.h
+
+1675402006 source:e:\programming-stuff\my-projects\notpixel\src\canvasobject.cpp
+	"stdinclude.h"
+	"canvasObject.h"
+
+1675405160 e:\programming-stuff\my-projects\notpixel\src\canvasobject.h
+
+1675379488 source:e:\programming-stuff\my-projects\notpixel\src\canvaswindow.cpp
+	"stdinclude.h"
+	"canvasWindow.h"
+	"mainWindow.h"
+	"rongtuli.h"
+
+1675375544 e:\programming-stuff\my-projects\notpixel\src\canvaswindow.h
+	"window.h"
+	"canvasObject.h"
+	"tool.h"
+
+1675380086 e:\programming-stuff\my-projects\notpixel\src\tool.h
+
+1675276252 source:e:\programming-stuff\my-projects\notpixel\src\control.cpp
+	"stdinclude.h"
+	"rongtuli.h"
+	"control.h"
+
+1675276255 source:e:\programming-stuff\my-projects\notpixel\src\main.cpp
+	"stdinclude.h"
+	"rongtuli.h"
+
+1675380272 source:e:\programming-stuff\my-projects\notpixel\src\mainwindow.cpp
+	"stdinclude.h"
+	"mainWindow.h"
+	"rongtuli.h"
+	"button.h"
+	"canvasWindow.h"
+	"toolBar.h"
+	"colorPanel.h"
+
+1675377379 source:e:\programming-stuff\my-projects\notpixel\src\rongtuli.cpp
+	"stdinclude.h"
+	"tool.h"
+	"mainWindow.h"
+	"rongtuli.h"
+
+1675405126 source:e:\programming-stuff\my-projects\notpixel\src\tool.cpp
+	"stdinclude.h"
+	"canvasWindow.h"
+	"tool.h"
+
+1675275275 source:e:\programming-stuff\my-projects\notpixel\src\stdinclude.h
+	<stdio.h>
+	<assert.h>
+	<string>
+	<vector>
+	<iostream>
+	<map>
+	<memory>
+	<functional>
+	<tchar.h>
+	<windows.h>
+	<gdiplus.h>
+
+1675363307 e:\programming-stuff\my-projects\notpixel\src\window.h
+
+1675377871 source:e:\programming-stuff\my-projects\notpixel\src\toolbar.cpp
+	"stdinclude.h"
+	"toolBar.h"
+
+1675402367 e:\programming-stuff\my-projects\notpixel\src\toolbar.h
+	"window.h"
+	"canvasObject.h"
+	"tool.h"
+
+1675363580 source:e:\programming-stuff\my-projects\notpixel\src\window.cpp
+	"stdinclude.h"
+	"window.h"
+	"rongtuli.h"
+
+1675402197 source:e:\programming-stuff\my-projects\notpixel\src\colorpanel.cpp
+	"stdinclude.h"
+	"colorPanel.h"
+	"mainWindow.h"
+	"canvasWindow.h"
+
+1675369550 e:\programming-stuff\my-projects\notpixel\src\colorpanel.h
+	"window.h"
+	"canvasObject.h"
+
+1675275275 source:e:\programming-stuff\my-projects\rongtuli\src\stdinclude.h
+	<stdio.h>
+	<assert.h>
+	<string>
+	<vector>
+	<iostream>
+	<map>
+	<memory>
+	<functional>
+	<tchar.h>
+	<windows.h>
+	<gdiplus.h>
+
+1675368299 source:e:\programming-stuff\my-projects\rongtuli\src\button.cpp
+	"stdinclude.h"
+	"control.h"
+	"button.h"
+	"rongtuli.h"
+
+1675275275 e:\programming-stuff\my-projects\rongtuli\src\stdinclude.h
+	<stdio.h>
+	<assert.h>
+	<string>
+	<vector>
+	<iostream>
+	<map>
+	<memory>
+	<functional>
+	<tchar.h>
+	<windows.h>
+	<gdiplus.h>
+
+1675409092 e:\programming-stuff\my-projects\rongtuli\src\control.h
+
+1675099605 e:\programming-stuff\my-projects\rongtuli\src\button.h
+	"control.h"
+
+1675377363 e:\programming-stuff\my-projects\rongtuli\src\rongtuli.h
+	"control.h"
+	"mainWindow.h"
+
+1675407256 e:\programming-stuff\my-projects\rongtuli\src\mainwindow.h
+
+1675409717 source:e:\programming-stuff\my-projects\rongtuli\src\canvasobject.cpp
+	"stdinclude.h"
+	"canvasObject.h"
+	"mathHelper.h"
+
+1675408767 e:\programming-stuff\my-projects\rongtuli\src\canvasobject.h
+
+1675379488 source:e:\programming-stuff\my-projects\rongtuli\src\canvaswindow.cpp
+	"stdinclude.h"
+	"canvasWindow.h"
+	"mainWindow.h"
+	"rongtuli.h"
+
+1675375544 e:\programming-stuff\my-projects\rongtuli\src\canvaswindow.h
+	"window.h"
+	"canvasObject.h"
+	"tool.h"
+
+1675363307 e:\programming-stuff\my-projects\rongtuli\src\window.h
+
+1675380086 e:\programming-stuff\my-projects\rongtuli\src\tool.h
+
+1675402197 source:e:\programming-stuff\my-projects\rongtuli\src\colorpanel.cpp
+	"stdinclude.h"
+	"colorPanel.h"
+	"mainWindow.h"
+	"canvasWindow.h"
+
+1675369550 e:\programming-stuff\my-projects\rongtuli\src\colorpanel.h
+	"window.h"
+	"canvasObject.h"
+
+1675276252 source:e:\programming-stuff\my-projects\rongtuli\src\control.cpp
+	"stdinclude.h"
+	"rongtuli.h"
+	"control.h"
+
+1675276255 source:e:\programming-stuff\my-projects\rongtuli\src\main.cpp
+	"stdinclude.h"
+	"rongtuli.h"
+
+1675409975 source:e:\programming-stuff\my-projects\rongtuli\src\mainwindow.cpp
+	"stdinclude.h"
+	"mainWindow.h"
+	"rongtuli.h"
+	"button.h"
+	"canvasWindow.h"
+	"toolBar.h"
+	"colorPanel.h"
+	"propertiesPanel.h"
+
+1675402367 e:\programming-stuff\my-projects\rongtuli\src\toolbar.h
+	"window.h"
+	"canvasObject.h"
+	"tool.h"
+
+1675377379 source:e:\programming-stuff\my-projects\rongtuli\src\rongtuli.cpp
+	"stdinclude.h"
+	"tool.h"
+	"mainWindow.h"
+	"rongtuli.h"
+
+1675409388 source:e:\programming-stuff\my-projects\rongtuli\src\tool.cpp
+	"stdinclude.h"
+	"canvasWindow.h"
+	"tool.h"
+
+1675377871 source:e:\programming-stuff\my-projects\rongtuli\src\toolbar.cpp
+	"stdinclude.h"
+	"toolBar.h"
+
+1675407421 source:e:\programming-stuff\my-projects\rongtuli\src\window.cpp
+	"stdinclude.h"
+	"window.h"
+	"rongtuli.h"
+
+1675406123 e:\programming-stuff\my-projects\rongtuli\src\mathhelper.h
+
+1675409312 source:e:\programming-stuff\my-projects\rongtuli\src\propertiespanel.cpp
+	"stdinclude.h"
+	"propertiesPanel.h"
+	"mainWindow.h"
+	"canvasWindow.h"
+	"edit.h"
+
+1675407267 e:\programming-stuff\my-projects\rongtuli\src\propertiespanel.h
+	"window.h"
+	"canvasObject.h"
+
+1675409784 source:e:\programming-stuff\my-projects\rongtuli\src\edit.cpp
+	"stdinclude.h"
+	"control.h"
+	"edit.h"
+	"rongtuli.h"
+
+1675409132 e:\programming-stuff\my-projects\rongtuli\src\edit.h
+	"control.h"
+
